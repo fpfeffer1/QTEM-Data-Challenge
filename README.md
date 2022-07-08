@@ -1,5 +1,5 @@
 # QTEM-Data-Challenge
-QTEM Data Challenge as part of the QTEM Masters program
+QTEM Data Challenge - part of the QTEM Masters program
 
 This repository contains code used for the 2021 QTEM Data Challenge. In this challenge, a team of 3 QTEM students analyzes a dataset provided by a corporate partner with the goal to derive business insights.
 
